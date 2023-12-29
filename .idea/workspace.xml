@@ -5,26 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0cb700bb-deb0-48e7-b52e-381d10363ecb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/portfolio/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/portfolio/GUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/portfolio/Investment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/portfolio/MutualFund.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/portfolio/Portfolio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/portfolio/Stock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/service/RestApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/service/impl/RestApiImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/service/response/InvestmentResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/service/websocket/CustomMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/service/websocket/CustomStompSessionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/service/websocket/MyStompSessionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/service/websocket/StompWebSocketClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/service/websocket/WebSocketClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/service/websocket/WebSocketClientEndpoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ui/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ui/MainFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -305,7 +290,7 @@
       <workItem from="1664360729091" duration="226000" />
       <workItem from="1703758683315" duration="8921000" />
       <workItem from="1703830794469" duration="759000" />
-      <workItem from="1703836465255" duration="7305000" />
+      <workItem from="1703836465255" duration="8086000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1659795804032</created>
